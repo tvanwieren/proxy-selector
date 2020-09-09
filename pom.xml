@@ -93,7 +93,7 @@
             <dependency>
                 <groupId>org.yaml</groupId>
                 <artifactId>snakeyaml</artifactId>
-                <version>1.12</version>
+                <version>1.26</version>
                 <optional>true</optional>
             </dependency>
 
@@ -206,7 +206,7 @@
                         <format>xml</format>
                     </formats>
                     <aggregate>true</aggregate>
-                    <check />
+                    <check/>
                 </configuration>
             </plugin>
 
